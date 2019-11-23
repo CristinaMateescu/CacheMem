@@ -1,5 +1,3 @@
-README Mateescu_Cristina_Ramona_321CB_Tema1POO
-
 
 	Clasa Subscriptie - clasa abstracta 
 		
